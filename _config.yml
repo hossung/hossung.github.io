@@ -282,10 +282,10 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: main
+      type: docs
     values:
       sidebar:
-        nav: "main"
+        nav: "docs"
       layout: single
       author_profile: true
       read_time: true
