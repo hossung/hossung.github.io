@@ -8,7 +8,10 @@ tags:
   - [Blog, jekyll, Github, Git]
   -
 sidebar:
-  nav: "docs"
+  - title: "Title"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
 
 toc: true
 toc_sticky: true
