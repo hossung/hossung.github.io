@@ -14,7 +14,7 @@ sidebar:
     text: "More text here."
 
 toc: true
-toc_sticky: true
+toc_sticky: false
  
 date: 2022-06-19
 last_modified_at: 2020-06-19
