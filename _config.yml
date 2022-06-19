@@ -276,18 +276,13 @@ compress_html:
   ignore:
     envs: development
 
-sidebar:
-  - title: "Title"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
     
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: main
+      type: posts
     values:
       layout: single
       author_profile: true
